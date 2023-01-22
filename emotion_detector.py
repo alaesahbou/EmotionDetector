@@ -25,11 +25,3 @@ while True:
 
 video.release()
 cv2.destroyAllWindows()
-
-
-# imgpath='1.png'
-# image=cv2.imread (imgpath)
-
-# analyze = DeepFace.analyze (image, actions=['emotion'])
-# print (analyze)
-# print (analyze ['dominant_emotion'])
