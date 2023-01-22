@@ -41,3 +41,7 @@ The haarcascade_frontalface_default.xml file is a pre-trained classifier for det
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/alaesahbou/EmotionDetector/blob/master/LICENSE) file for details.
+
+## Team
+
+- Alae-eddine Sahbou [username](https://github.com/alaesahbou)
