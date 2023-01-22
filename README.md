@@ -44,4 +44,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Team
 
-- Alae-eddine Sahbou [alaesahbou](https://github.com/alaesahbou)
+- Alae-eddine Sahbou [alaesahbou](https://github.com/alaesahbou) 💼
+- Hamza Slahmi [hamzaslh](https://github.com/hamzaslh) 💼
